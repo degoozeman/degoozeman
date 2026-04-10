@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Fred 👋
 
-<!--
-**degoozeman/degoozeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer and technical SEO specialist open for freelance work.
 
-Here are some ideas to get you started:
+## What I Build
+- ⚡ Web apps — React, Next.js, Node.js
+- 🌐 WordPress — custom themes, plugins, headless CMS
+- 📱 Mobile apps — Flutter, React Native
+- 🔍 Technical SEO — content ranked on Google within 48 hours
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+
+## Notable Projects
+- **Browser Automation Engine** (Private) — Custom Chromium modification for human-like web automation. Stack: Node.js, Chrome DevTools Protocol
+
+## Let's Work Together
+- 💼 Open for freelance projects
+- 📩 Reach me on Reddit: [u/Fred_Builds](https://reddit.com/u/Fred_Builds)
+- 🌍 Available for remote work worldwide
