@@ -8,6 +8,10 @@ Full-stack developer and technical SEO specialist open for freelance work.
 - 📱 Mobile apps — Flutter, React Native
 - 🔍 Technical SEO — content ranked on Google within 48 hours
 
+
+* 🤖 Reddit Job Monitor — Real-time job scraper with AI filtering 
+(Gemini API) and Telegram alerts. Python, Reddit API, Google AI.
+
 ## Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
